@@ -9,7 +9,7 @@ body {
     height: 200px;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     border: thick double grey;
 }
 
