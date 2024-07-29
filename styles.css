@@ -1,8 +1,19 @@
+/* Global stylings */
+body {
+    background-color: black;
+}
+
 /* Center and style div */
 .container {
-  height: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: thick double #32a1ce;
+    background-color: lightgray;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: thick double grey;
 }
+
+#result {
+    
+}
+
